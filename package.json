@@ -1,0 +1,21 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "formidable": "^1.1.1",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.2.1",
+    "path": "^0.12.7",
+    "quagga": "^0.12.1",
+    "request": "^2.81.0"
+  }
+}
